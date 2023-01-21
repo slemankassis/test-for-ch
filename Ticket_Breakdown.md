@@ -37,7 +37,7 @@ This field should be nullable and accept alphanumeric string values
 A new input field for custom Agent IDs is added to the Facility's UI for adding or editing Agents.
 The custom Agent ID is saved to the database when the Facility submits the form
 
-#### Time/Effort Estimate: 2 hours
+#### Time/Effort Estimate: 2hours
 
 #### Implementation Details:
 
