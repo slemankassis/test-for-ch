@@ -9,3 +9,5 @@ You've been asked to refactor the function `deterministicPartitionKey` in [`dpk.
 You will be graded on the exhaustiveness and quality of your unit tests, the depth of your refactor, and the level of insight into your thought process provided by the written explanation.
 
 ## Your Explanation Here
+
+First, I would add unit tests to ensure that the existing functionality is not broken during the refactor. Next, I would refactor the function to make it more readable. One way to do this would be to add descriptive variable names, breaking up the function into smaller, more manageable chunks, and using more modern JS language features (EcmaScript) such as destructuring and arrow functions, move outside the component and export constants for using them in the tests. These changes makes the function more readable by providing clear separation of responsibilities and making use of modern and concise syntax, making the overall logic of the function more clear and easy to understand.
